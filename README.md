@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi, I'm Hemalatha 👋
 Aspiring Software Engineer | B.Tech Student | Learning Python, DSA, JavaScript & Backend Development
 
-## skills
+## Skills
 
 - HTML
 - CSS
@@ -31,3 +31,10 @@ Aspiring Software Engineer | B.Tech Student | Learning Python, DSA, JavaScript &
 
 - 📝 [Todo List App](https://github.com/Hema-89/To-do-App.git) — Completed
 - 💰 **Expense Tracker App** — Currently building
+
+## Currently Learning
+
+- Python
+- DSA
+- JavaScript
+- Backend Development
