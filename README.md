@@ -29,5 +29,5 @@ Aspiring Software Engineer | B.Tech Student | Learning Python, DSA, JavaScript &
 
 ## Projects
 
-- 📝 **Todo List App** — Completed
+- 📝 [Todo List App](https://github.com/Hema-89/To-do-App.git) — Completed
 - 💰 **Expense Tracker App** — Currently building
