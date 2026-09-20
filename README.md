@@ -29,7 +29,7 @@ Aspiring Software Engineer | B.Tech Student | Learning Python, DSA, JavaScript &
 
 ## Projects
 
-- 📝 [Todo List App](https://github.com/Hema-89/To-do-App.git) — A simple and responsive To-do List app for managing daily tasks.
+- 📝 [Todo List App](https://github.com/Hema-89/To-do-App.git) - [Live Demo](https://hema-89.github.io/To-do-App/) | A simple and responsive To-do List app for managing daily tasks.
 - 💰 **Expense Tracker App** — Currently building an app to track and manage personal expenses.
 
 ## Currently Learning
